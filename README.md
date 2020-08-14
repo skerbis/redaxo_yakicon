@@ -1,7 +1,6 @@
 # Yakicon
-========================
 
-### Moduleingabe
+## Moduleingabe
     
     // Fontawesome
     <input class="form-control" name="REX_INPUT_VALUE[1]" value="REX_VALUE[1]" data-iconpicker />
